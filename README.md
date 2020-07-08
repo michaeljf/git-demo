@@ -2,9 +2,5 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website Contents
 
-ajsdflajdflk;ajdfkljadkf asdjkfa a' sdfakdsf ;aj kjas;ldjfa ajls;djf 
-adf
-
-more blah blah blah
